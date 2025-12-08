@@ -68,12 +68,12 @@ These topics go beyond the syllabus but are necessary for effective "Modular Pro
 ### Option 1: VS Code (Recommended)
 This repo is configured with `tasks.json` for MinGW (g++).
 
-1.  Open any `.cpp` file (e.g., `01-basics.cpp`).
+1.  Open any `.cpp` file (e.g., `01-variables.cpp`).
 2.  Press **`Ctrl + Shift + B`** to build the active file.
 3.  The executable will be created in the same folder.
 4.  Run it in the terminal:
     ```bash
-    .\01-basics.exe
+    .\01-variables.exe
     ```
 
 ### Option 2: Command Line (Manual)
