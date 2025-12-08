@@ -1,8 +1,6 @@
 # ⚡ C++ Fundamentals & Course Prep
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Enrolled-success?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/taco0cat/cpp-fundamentals?style=for-the-badge&color=blue)
 
 Welcome to my central C++ repository. This project documents my preparation for my upcoming university Computer Science course, combined with self-study from industry-standard resources.
