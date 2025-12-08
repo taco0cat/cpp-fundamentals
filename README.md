@@ -43,6 +43,7 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | ⬜ | **13** | **Pointers** | Memory Addresses, Dereferencing |
 | ⬜ | **14** | **Dynamic Memory** | Heap vs Stack, `new` and `delete` keywords |
 | ⬜ | **15** | **Review** | Revision of all concepts |
+| ⬜ | **16** | **Final** | Final Exam / Capstone Project |
 
 </details>
 
@@ -83,3 +84,13 @@ If you prefer manual compilation:
 ```bash
 g++ filename.cpp -o outputname
 .\outputname.exe
+```
+## 🧠 Key Learnings Log
+*A living document of "Aha!" moments and technical discoveries.*
+
+* **Memory Management:** Understanding that Pointers (`*`) store addresses, not values, and are crucial for efficiency.
+* **Strict Typing:** C++ requires declaring types (`int`, `char`) upfront, unlike JavaScript's dynamic typing.
+* **Compilation:** C++ compiles to machine code (`.exe`) before running, whereas JS is interpreted by the browser.
+
+---
+*Created by [taco0cat](https://github.com/taco0cat)*
