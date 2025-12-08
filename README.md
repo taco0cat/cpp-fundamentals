@@ -23,7 +23,7 @@ My learning path is a hybrid of university curriculum and these external resourc
 This module strictly follows the "Course Topics and Schedule" from the university syllabus.
 
 <details open>
-<summary><strong>👇 View the Course Syllabus & Progress</strong></summary>
+<summary><strong>👇 View the Course Syllabus</strong></summary>
 <br>
 
 | Week | Topic | Concepts Covered |
