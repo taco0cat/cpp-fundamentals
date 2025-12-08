@@ -28,7 +28,7 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | :---: | :---: | :--- | :--- |
 | ✅ | **1** | **Intro & Setup** | Phases of development, VS Code Setup, `main()` |
 | ✅ | **2** | **Variables** | Expressions, Data Types, Arithmetic Operators |
-| ⬜ | **3** | **Conditionals** | `if`, `else if`, `switch` statements |
+| ✅ | **3** | **Conditionals** | `if`, `else if`, `switch` statements |
 | ⬜ | **4** | **Loops** | `while`, `do-while`, `for` loops |
 | ⬜ | **5** | **Nested Loops** | Loops inside loops, Flowcharts |
 | ⬜ | **6** | **Functions I** | Definitions, Calling functions, Return values |
