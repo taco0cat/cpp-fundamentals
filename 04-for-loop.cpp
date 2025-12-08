@@ -49,6 +49,6 @@ int main(){
         cout << i << "\n";
         i++;
     }
-
+    
     return 0;
 }
