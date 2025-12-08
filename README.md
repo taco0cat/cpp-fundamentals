@@ -12,7 +12,7 @@ Welcome to my central C++ repository. This project documents my preparation for 
 My learning path is a hybrid of university curriculum and these external resources:
 
 1.  **[LearnCpp.com](https://www.learncpp.com/):** The primary documentation for deep dives and best practices.
-2.  **[Bro Code C++ Playlist](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on):** For visual learning and syntax basics.
+2.  **[Bro Code C++ Playlist](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on):** For concept based projects.
 3.  **[W3Schools](https://www.w3schools.com/cpp/):** For quick syntax lookups and references.
 
 ---
