@@ -27,7 +27,7 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | Status | Week | Topic | Concepts Covered |
 | :---: | :---: | :--- | :--- |
 | ✅ | **1** | **Intro & Setup** | Phases of development, VS Code Setup, `main()` |
-| ⬜ | **2** | **Variables** | Expressions, Data Types, Arithmetic Operators |
+| ✅ | **2** | **Variables** | Expressions, Data Types, Arithmetic Operators |
 | ⬜ | **3** | **Conditionals** | `if`, `else if`, `switch` statements |
 | ⬜ | **4** | **Loops** | `while`, `do-while`, `for` loops |
 | ⬜ | **5** | **Nested Loops** | Loops inside loops, Flowcharts |
@@ -68,12 +68,12 @@ These topics go beyond the syllabus but are necessary for effective "Modular Pro
 ### Option 1: VS Code (Recommended)
 This repo is configured with `tasks.json` for MinGW (g++).
 
-1.  Open any `.cpp` file (e.g., `helloworld.cpp`).
+1.  Open any `.cpp` file (e.g., `01-basics.cpp`).
 2.  Press **`Ctrl + Shift + B`** to build the active file.
 3.  The executable will be created in the same folder.
 4.  Run it in the terminal:
     ```bash
-    .\helloworld.exe
+    .\01-basics.exe
     ```
 
 ### Option 2: Command Line (Manual)
