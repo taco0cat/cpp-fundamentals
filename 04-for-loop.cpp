@@ -29,5 +29,26 @@ int main(){
         cout << num << "\n";
     }
 
+// --------------------------------------------------- //
+
+    // Break Statement (Exit the loop)
+    for (int i = 0; i < 10; i++) {
+        if (i == 4) {
+            break;
+        }
+        cout << i << "\n";
+    }
+
+    // Continue Statement (Skip an iteration)
+    int i = 0;
+    while (i < 10) {
+        if (i == 4) {
+            i++;
+            continue;
+        }
+        cout << i << "\n";
+        i++;
+    }
+
     return 0;
 }
