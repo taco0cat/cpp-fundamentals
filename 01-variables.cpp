@@ -1,6 +1,8 @@
 // imports Input/Output Stream library before compilation
 #include <iostream>
 #include <string>
+#include <cmath>
+
 // "std::cout <<" --> "cout <<"
 using namespace std;
 
@@ -79,6 +81,20 @@ int main() {
 
     cout << greeting1 << endl;
     cout << greeting2 << endl;
+
+// --------------------------------------------------------------------------------- //
+
+    // Math Module
+    float squareNum = sqrt(64);
+    float roundNum = round(2.6);
+    float logNum = log(2);
+    float maxNum = max(2, 5);
+    float minNum = min(2, 5);
+
+// --------------------------------------------------------------------------------- //
+
+    // cout << boolalpha;  // prints true/false instead of 1/0
+    // cout << noboolalpha;  // prints 1/0 instead of true/false
 
     return 0;
 }
