@@ -26,12 +26,11 @@ int main(){
     // Nested Ternary Operator
     int time2 = 22;
     string message = (time2 < 12) ? "Good morning." : (time2 < 18) ? "Good afternoon." : "Good evening.";
-    cout << message;
+    cout << message << endl;
 
 // --------------------------------------------------------------------------------- //
 
     // Switches
-
     int day = 4;
     switch (day) {
         case 1:
