@@ -13,16 +13,21 @@ int main(){
 // --------------------------------------------------- //
 
     // Nested Loops
-
-    // Outer loop
     for (int i = 1; i <= 2; ++i) {
-        cout << "Outer: " << i << "\n"; // Executes 2 times
-        
-        // Inner loop`
+        cout << "Outer: " << i << "\n";
+
         for (int j = 1; j <= 3; ++j) {
-            cout << " Inner: " << j << "\n"; // Executes 6 times (2 * 3)
+            cout << " Inner: " << j << "\n";
         }
     }
     
+// --------------------------------------------------- //
+
+    // For Each Loop (loop through elements in an array)
+    int myNumbers[5] = {10, 20, 30, 40, 50};
+    for (int num : myNumbers) {
+        cout << num << "\n";
+    }
+
     return 0;
 }
