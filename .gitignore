@@ -1,0 +1,23 @@
+# --- Executables and Output ---
+# Ignore all .exe files so you don't upload binaries
+*.exe
+*.dll
+*.o
+*.obj
+*.out
+
+# --- Visual Studio Code ---
+# Ignore the .vscode folder. This contains your local paths (like D:\DevTool...)
+# which will break if someone else tries to use them.
+.vscode/
+
+# --- System Files ---
+# Annoying Windows metadata files
+Thumbs.db
+Desktop.ini
+
+# --- Security/Sensitive ---
+# Ignore files that might contain passwords or keys (good practice for the future)
+.env
+secret.txt
+credentials.json
