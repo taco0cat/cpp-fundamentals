@@ -38,7 +38,7 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | ⬜ | **10** | **Arrays & Funcs** | Passing arrays to functions |
 | ⬜ | **11** | **Strings** | **C-Strings** (Null-terminated character arrays) |
 | ⬜ | **12** | **File I/O** | Reading/Writing text files (`fstream`) |
-| ⬜ | **13** | **Pointers** | Memory Addresses, Dereferencing |
+| ✅ | **13** | **Pointers** | Memory Addresses, Dereferencing |
 | ⬜ | **14** | **Dynamic Memory** | Heap vs Stack, `new` and `delete` keywords |
 | ⬜ | **15** | **Review** | Revision of all concepts |
 | ⬜ | **16** | **Final** | Final Exam / Capstone Project |
