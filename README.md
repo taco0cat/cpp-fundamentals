@@ -33,8 +33,8 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | ✅ | **5** | **Nested Loops** | Loops inside loops, Flowcharts |
 | ⬜ | **6** | **Functions I** | Definitions, Calling functions, Return values |
 | ⬜ | **7** | **Functions II** | **Overloading**, Default Args, **Pass-by-Reference** |
-| ⬜ | **8** | **Arrays I** | 1D Arrays, Iterating through data |
-| ⬜ | **9** | **Arrays II** | **2D Arrays** (Matrices), Nested loop iteration |
+| ✅ | **8** | **Arrays I** | 1D Arrays, Iterating through data |
+| ✅ | **9** | **Arrays II** | **2D Arrays** (Matrices), Nested loop iteration |
 | ⬜ | **10** | **Arrays & Funcs** | Passing arrays to functions |
 | ⬜ | **11** | **Strings** | **C-Strings** (Null-terminated character arrays) |
 | ⬜ | **12** | **File I/O** | Reading/Writing text files (`fstream`) |
