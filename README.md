@@ -31,15 +31,15 @@ This module strictly follows the "Course Topics and Schedule" from the universit
 | ✅ | **3** | **Conditionals** | `if`, `else if`, `switch` statements |
 | ✅ | **4** | **Loops** | `while`, `do-while`, `for` loops |
 | ✅ | **5** | **Nested Loops** | Loops inside loops, Flowcharts |
-| ⬜ | **6** | **Functions I** | Definitions, Calling functions, Return values |
-| ⬜ | **7** | **Functions II** | **Overloading**, Default Args, **Pass-by-Reference** |
+| ✅ | **6** | **Functions I** | Definitions, Calling functions, Return values |
+| ✅ | **7** | **Functions II** | **Overloading**, Default Args, **Pass-by-Reference** |
 | ✅ | **8** | **Arrays I** | 1D Arrays, Iterating through data |
 | ✅ | **9** | **Arrays II** | **2D Arrays** (Matrices), Nested loop iteration |
-| ⬜ | **10** | **Arrays & Funcs** | Passing arrays to functions |
+| ✅ | **10** | **Arrays & Funcs** | Passing arrays to functions |
 | ⬜ | **11** | **Strings** | **C-Strings** (Null-terminated character arrays) |
 | ⬜ | **12** | **File I/O** | Reading/Writing text files (`fstream`) |
 | ✅ | **13** | **Pointers** | Memory Addresses, Dereferencing |
-| ⬜ | **14** | **Dynamic Memory** | Heap vs Stack, `new` and `delete` keywords |
+| ✅ | **14** | **Dynamic Memory** | Heap vs Stack, `new` and `delete` keywords |
 | ⬜ | **15** | **Review** | Revision of all concepts |
 | ⬜ | **16** | **Final** | Final Exam / Capstone Project |
 
