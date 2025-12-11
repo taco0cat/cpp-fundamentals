@@ -21,6 +21,10 @@ class Car {
         int speed(int maxSpeed);
 };
 
+// Method/function definition outside the class
+int Car::speed(int maxSpeed) {
+    return maxSpeed;
+}
 
 // Another Example
 class Dog {
@@ -30,11 +34,6 @@ class Dog {
         }
 };
 
-
-// Method/function definition outside the class
-int Car::speed(int maxSpeed) {
-    return maxSpeed;
-}
 
 int main() {
 
